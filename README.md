@@ -18,4 +18,5 @@ This project analyzes user activity logs from the Novatech online shopping websi
 
 ---
 
-**Authors:** Mahmoud Youssef | 
+**Authors:**
+Mahmoud Youssef | Weronika Wójcik 
