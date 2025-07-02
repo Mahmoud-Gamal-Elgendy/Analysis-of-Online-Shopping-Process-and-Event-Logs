@@ -8,8 +8,8 @@ This project analyzes user activity logs from the Novatech online shopping websi
 - Analysis & testing done on converted data
 
 ## Files Included
-- `report.pdf`: Full analysis and test documentation
-- `har_to_csv.py`: Python script for HAR to CSV conversion
+- `Analysis of Online Shopping Process and Event Logs v2.ipynb`: Full analysis and test documentation
+- `har_csv.py`: Python script for HAR to CSV conversion
 
 ## Features
 - Online shopping flow analysis
